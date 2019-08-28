@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tugas_Pwpb2_LimasSegitiga</string>
+    <string name="LimasSegitiga">Luas Limas Segitiga</string>
+    <string name="VLimasSegitiga">Volume Limas Segitiga</string>
+    <string name="sisi1">Sisi 1</string>
+    <string name="hitung">hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="sisi2">Sisi 2</string>
+    <string name="alas">Alas Segitiga</string>
+    <string name="tinggiS">Tinggi Segitiga</string>
+    <string name="tinggiT">Tinggi Limas</string>
+</resources>
